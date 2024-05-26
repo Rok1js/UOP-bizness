@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="uop">UOP</string>
+    <string name="e_pasts">E-pasts</string>
+    <string name="parole">Parole</string>
+    <string name="piesl_gties">Pieslēgties</string>
+    <string name="re_istr_ties">Reģistrēties</string>
+    <string name="jau_ir_konts_piesl_dzies">Jau ir konts? Pieslēdzies</string>
+    <string name="no_account">Vēl nav profila? Reģistrējies</string>
+    <string name="atteikties">Atteikties</string>
+</resources>
